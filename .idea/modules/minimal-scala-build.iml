@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="minimal-scala-build" external.linked.project.path="$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/project" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="SBT_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/project/target/idea-classes" />
+    <output-test url="file://$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/project/target/idea-test-classes" />
+    <exclude-output />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
