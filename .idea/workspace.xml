@@ -6,9 +6,16 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b6bbf5-62df-4110-af75-09a224759209" name="Default" comment="" />
+    <list default="true" id="1e3197c1-9385-4cbb-aaa3-cfdae7b8603e" name="Default" comment="" />
     <ignored path="minimal-scala.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/target/resolution-cache/" />
+    <ignored path="$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/target/streams/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/project/project/target/" />
+    <ignored path="$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/project/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +32,7 @@
     <favorites_list name="minimal-scala" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -74,7 +70,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -86,7 +82,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,6 +174,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1432665718711" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -218,13 +215,13 @@
         <entry key="$USER_HOME$/6W-Projects/hahn" value="1427894597000" />
         <entry key="$USER_HOME$/6W-Projects/jvm-profiler" value="1431939687000" />
         <entry key="$USER_HOME$/6W-Projects/lists" value="5716895438000" />
-        <entry key="$USER_HOME$/6W-Projects/tasks" value="5718087971000" />
+        <entry key="$USER_HOME$/6W-Projects/tasks" value="4289617555000" />
         <entry key="$USER_HOME$/6W-Projects/wunderlist-java" value="1432649701000" />
         <entry key="$USER_HOME$/Other-Projects/activator/akka-clustering" value="1428746488000" />
         <entry key="$USER_HOME$/Other-Projects/activator/akka-sample-cluster-scala" value="1428652356000" />
         <entry key="$USER_HOME$/Other-Projects/playground/akka-in-action/chapter-cluster" value="1428573682000" />
         <entry key="$USER_HOME$/Other-Projects/playground/akka-in-action/chapter6" value="1428573682000" />
-        <entry key="$PROJECT_DIR$" value="2865315553000" />
+        <entry key="$PROJECT_DIR$/../jetbrains-issue" value="2865315553000" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -234,16 +231,16 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5b6bbf5-62df-4110-af75-09a224759209" name="Default" comment="" />
-      <created>1432658082597</created>
+      <changelist id="1e3197c1-9385-4cbb-aaa3-cfdae7b8603e" name="Default" comment="" />
+      <created>1432665694845</created>
       <option name="number" value="Default" />
-      <updated>1432658082597</updated>
+      <updated>1432665694845</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -255,7 +252,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2996769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -279,6 +276,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.sbt/0.13/staging/69e4ca20464e2d91e11e/minimal-scala/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
